@@ -1,7 +1,10 @@
 {
   "name": "FirstAvenu",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
   "type": "angular",
   "id": "9e03e252"
